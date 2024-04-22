@@ -1,0 +1,75 @@
+.montserrat-<uniquifier> {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+body{
+  margin: 0;
+}
+
+p{
+  text-align:left;
+  font-family: Montserrat;
+  color: #000000;
+  padding: 10px;
+  font-size:18px;
+}
+
+.navBar {
+  background-color:#14744c;
+  width:100%;
+  text-align:center;
+  padding: 10px;
+  
+}
+
+.homeButton {
+  margin-left: auto;
+  background-color: #7DD181;
+  border-radius:2px;
+  text-align: center;
+  border-width: 0px;
+  width: 70px;
+  font-size: 18px;
+  font-family: Montserrat;
+  transition: width 5s;
+  padding: 3px;
+}
+
+.infoButton {
+  background-color: #7DD181;
+  border-radius:2px;
+  text-align: center;
+  border-width: 0px;
+  width: 70px;
+  font-size: 18px;
+  font-family: Montserrat;
+  transition: width 5s;
+  padding: 3px;
+}
+
+.solutionButton {
+  background-color: #7DD181;
+  border-radius:2px;
+  text-align: center;
+  border-width: 0px;
+  width: 80px;
+  font-size: 18px;
+  font-family: Montserrat;
+  transition: width 5s;
+  padding: 3px;
+}
+
+.financialButton {
+  background-color: #7DD181;
+  border-radius:2px;
+  text-align: center;
+  border-width: 0px;
+  width: 80px;
+  font-size: 18px;
+  font-family: Montserrat;
+  transition: width 5s;
+  padding: 3px;
+}
